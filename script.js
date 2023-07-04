@@ -1,3 +1,6 @@
+//This was my final project for my CS 10 course this year. It got 100% and I'm very proud of it.
+//It's an emulation of a very, *very* basic 8 bit computer, with 3 registers, von neumann architecture with two RAM blocks, one data and one instruction, both 256 bytes, and 16 instructions.
+
 //RAM and register declaration up here
 let instructionRAM = [];
 let programRAM = [];
